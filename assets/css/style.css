@@ -710,6 +710,7 @@ a.footer-link {
     .testmonial-card {
         padding: 50px 20px;
     }
+    
 }
 
 @media screen and (max-width:590px) {
@@ -746,5 +747,10 @@ a.footer-link {
         -ms-grid-column: 4;
         -ms-grid-column-span: -3;
         grid-area: 1 / 4 / 1 / 1;
+    }
+    h2.title-2 {
+        font-size: 30px;
+        max-width: 90%;
+        margin: 0 auto 10px;
     }
 }
